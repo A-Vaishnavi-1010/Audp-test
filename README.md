@@ -17,3 +17,5 @@ https://docs.google.com/document/d/1FCx5iysU6kgyBGPDLWDFQaNanXk_PNplLrIxsr2DVZA/
 
 ## Production
 Hosted on Heroku:  https://audp-test.herokuapp.com/
+
+## to check git setup
